@@ -1,7 +1,6 @@
 # Diphylleia
 
-![Diphylleia_image1](Documentation/Diphylleia_Github_Image1.jpg)
-![Diphylleia_Image2](Documentation/Diphylleia_Github_Image2.jpg)
+![Diphylleia_image1](Documentation/images/Github/Diphylleia_Github_Image1.jpg)
 
 
 
